@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+@import url('http://fonts.cdnfonts.com/css/li-ador-noirrit:wght@300;400;500;700;900&display=swap');
 *{
   margin:0px;
   padding:0px;
@@ -17,7 +17,7 @@
   --card4-gradient-color2: #38ef7d;
 }
 body{
-  font-family: 'Roboto', sans-serif;
+ font-family: 'Li Ador Noirrit', sans-serif;                                             
   background: linear-gradient(to right, #8e9eab, #eef2f3); 
   height: 100vh;
   display: flex;
